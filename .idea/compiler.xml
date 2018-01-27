@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-address" />
+        <module name="shop-admin" />
+        <module name="shop-cart" />
+        <module name="shop-cloudconfig" />
+        <module name="shop-control" />
+        <module name="shop-eureka" />
+        <module name="shop-gateway" />
+        <module name="shop-goods" />
+        <module name="shop-order" />
+        <module name="shop-protal" />
+        <module name="shop-search" />
+        <module name="shop-seller" />
+        <module name="shop-user" />
+        <module name="shop-web-admin" />
+        <module name="shop-web-protal" />
+        <module name="shop-web-seller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-address" target="1.8" />
+      <module name="shop-admin" target="1.8" />
+      <module name="shop-cart" target="1.8" />
+      <module name="shop-cloudconfig" target="1.8" />
+      <module name="shop-config" target="1.8" />
+      <module name="shop-control" target="1.8" />
+      <module name="shop-eureka" target="1.8" />
+      <module name="shop-gateway" target="1.8" />
+      <module name="shop-goods" target="1.8" />
+      <module name="shop-order" target="1.8" />
+      <module name="shop-protal" target="1.8" />
+      <module name="shop-search" target="1.8" />
+      <module name="shop-seller" target="1.8" />
+      <module name="shop-user" target="1.8" />
+      <module name="shop-web-admin" target="1.8" />
+      <module name="shop-web-protal" target="1.8" />
+      <module name="shop-web-seller" target="1.8" />
+      <module name="shop_cloud" target="1.5" />
+      <module name="shopcommon" target="1.5" />
+      <module name="shopcomonservice" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

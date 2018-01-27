@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-address/shop-address.iml" filepath="$PROJECT_DIR$/shop-address/shop-address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-admin/shop-admin.iml" filepath="$PROJECT_DIR$/shop-admin/shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-cart/shop-cart.iml" filepath="$PROJECT_DIR$/shop-cart/shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-cloudconfig/shop-cloudconfig.iml" filepath="$PROJECT_DIR$/shop-cloudconfig/shop-cloudconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-control/shop-control.iml" filepath="$PROJECT_DIR$/shop-control/shop-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-eureka/shop-eureka.iml" filepath="$PROJECT_DIR$/shop-eureka/shop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-gateway/shop-gateway.iml" filepath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-goods/shop-goods.iml" filepath="$PROJECT_DIR$/shop-goods/shop-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-order/shop-order.iml" filepath="$PROJECT_DIR$/shop-order/shop-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-protal/shop-protal.iml" filepath="$PROJECT_DIR$/shop-protal/shop-protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-search/shop-search.iml" filepath="$PROJECT_DIR$/shop-search/shop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-seller/shop-seller.iml" filepath="$PROJECT_DIR$/shop-seller/shop-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-user/shop-user.iml" filepath="$PROJECT_DIR$/shop-user/shop-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-admin/shop-web-admin.iml" filepath="$PROJECT_DIR$/shop-web-admin/shop-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-protal/shop-web-protal.iml" filepath="$PROJECT_DIR$/shop-web-protal/shop-web-protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-seller/shop-web-seller.iml" filepath="$PROJECT_DIR$/shop-web-seller/shop-web-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_cloud.iml" filepath="$PROJECT_DIR$/shop_cloud.iml" />
+    </modules>
+  </component>
+</project>

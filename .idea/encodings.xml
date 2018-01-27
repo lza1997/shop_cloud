@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/shop-address" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-cloudconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-control" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-protal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-seller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-web-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-web-protal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-web-seller" charset="UTF-8" />
+  </component>
+</project>
