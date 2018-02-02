@@ -1,0 +1,22 @@
+
+server:
+  port: 6677 #服务端口
+
+spring: 
+  application:  
+    name: gateway #指定服务名
+    
+#zuul:
+#  routes:
+#    lza: #lza这个名字是任意写的
+#      path: /lza/** #配置请求URL的请求规则
+#      serviceId: shop-cart
+
+
+
+eureka:
+  client:
+    registerWithEureka: true #是否将自己注册到Eureka服务中，默认为true
+    fetchRegistry: true #是否从Eureka中获取注册信息，默认为true
+    serviceUrl: #Eureka客户端与Eureka服务端进行交互的地址
+      defaultZone: http://127.0.0.1:6868/eureka/      
