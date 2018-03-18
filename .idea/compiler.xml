@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gateway" />
         <module name="shop-address" />
         <module name="shop-admin" />
         <module name="shop-cart" />
@@ -25,6 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gateway" target="1.8" />
       <module name="shop-address" target="1.8" />
       <module name="shop-admin" target="1.8" />
       <module name="shop-cart" target="1.8" />
